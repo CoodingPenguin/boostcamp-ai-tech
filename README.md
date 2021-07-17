@@ -1,11 +1,12 @@
 # 🚀 Boostcamp AI Tech
+
 `2021.01.18 - 2021.06.22`
 
 ## U Stage
 
 `2021.01.18 - 2021.03.22`
 
-- [학습 정리](https://cooding-penguin.netlify.app/?category=%E2%9B%BA%20Boostcamp)
+- [학습 정리](./study-records)
 - [피어세션 자료/질문 모음](https://github.com/boostcamp-ai-tech-4/peer-session)
 
 ## P Stage 1: Image Classification
